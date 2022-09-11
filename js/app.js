@@ -1,5 +1,5 @@
 VANTA.GLOBE({
-  el: "#page",
+  el: "#pa",
   mouseControls: true,
   touchControls: true,
   gyroControls: false,
