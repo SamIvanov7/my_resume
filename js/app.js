@@ -1,5 +1,5 @@
 VANTA.CELLS({
-  el: "#page",
+  el: "#page1",
   mouseControls: true,
   touchControls: true,
   gyroControls: false,
