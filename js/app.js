@@ -1,13 +1,10 @@
-VANTA.BIRDS({
+VANTA.CELLS({
   el: "#page",
   mouseControls: true,
   touchControls: true,
   gyroControls: false,
+  minHeight: 200.00,
+  minWidth: 200.00,
   scale: 1.00,
-  scaleMobile: 1.00,
-  colorMode: "lerp",
-  wingSpan: 23.00,
-  separation: 60.00,
-  cohesion: 79.00,
-  quantity: 2.00
+  color1: 0x7272
 })
