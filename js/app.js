@@ -1,4 +1,4 @@
-VANTA.GLOBE({
+VANTA.BIRDS({
   el: "#page",
   mouseControls: true,
   touchControls: true,
