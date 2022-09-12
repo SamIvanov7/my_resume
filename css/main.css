@@ -193,9 +193,10 @@ strong {
 	padding:0;
 }
 
-#page1 {
+.page1 {
 	height: 2300px;
-	margin: 20
+	margin:0 auto;
+	padding:0;
 }
 
 .content-innertube {
