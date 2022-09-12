@@ -5,8 +5,9 @@ VANTA.BIRDS({
   gyroControls: false,
   scale: 1.00,
   scaleMobile: 1.00,
-  color: 0x592a32,
-	color2: 0x15efff,
-  backgroundColor: 0x0,
-	size: 1.4,
+  colorMode: "lerp",
+  wingSpan: 23.00,
+  separation: 60.00,
+  cohesion: 79.00,
+  quantity: 2.00
 })
